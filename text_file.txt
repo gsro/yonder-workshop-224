@@ -1,5 +1,6 @@
 Text file here
 
+Here's something that wasn't a conflict to be resolved
 
 .. YOu should be able to add your name here
 
